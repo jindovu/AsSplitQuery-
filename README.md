@@ -8,9 +8,9 @@ AsSplitQuery not working with sort string.Join
    
 => run migration
 
-a. dotnet ef migrations add new
+ a. dotnet ef migrations add new
 
-b. dotnet ef database update
+ b. dotnet ef database update
 
-4. Run project
+3. Run project
         
