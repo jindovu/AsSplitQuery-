@@ -7,7 +7,9 @@ AsSplitQuery not working with sort string.Join
     "SQLConnection": "Server=VNLAP01\\HNOIT;Database=Demo_Test;user id=demo;password=4W&[SRz75uhY;MultipleActiveResultSets=True;TrustServerCertificate=True;Encrypt=False"
    
 => run migration
+
 a. dotnet ef migrations add new
 b. dotnet ef database update
+
 4. Run project
         
